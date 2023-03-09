@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Identify the Mozilla Foundation and MDN
-- Navigate the MDN Reference Guide
+- Identify the Mozilla Foundation and MDN.
+- Navigate the MDN Reference Guide.
 
 ## Introduction
 
